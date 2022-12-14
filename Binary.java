@@ -1,5 +1,8 @@
 package Self;
 
+// Question: Return the index of target element using binary search. (Here target = 4, targetIndex = 3)
+// Array--->[1, 2, 3, 4, 5, 6]
+// Indices->[0, 1, 2, 3, 4, 5]
 
 public class Binary {
     public static void main(String[] args) {
