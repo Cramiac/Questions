@@ -19,6 +19,6 @@ public class Binary {
             else if(targetIndex > arr[midIndex]) startIndex = midIndex + 1;
             else return midIndex;
         }
-        return -1;
+        return -1; // "-1" is returned as an index when the target index is not found.
     }
 }
